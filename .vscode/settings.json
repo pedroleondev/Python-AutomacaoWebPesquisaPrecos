@@ -1,0 +1,20 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDelete": false,
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.rulers": [
+            80
+        ]
+    },
+    "files.trimTrailingWhitespace": true,
+    "editor.formatOnType": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.organizeImports": true,
+        "source.sortMembers": true
+    },
+    "autoDocstring.quoteStyle": "'''",
+}
